@@ -5,9 +5,7 @@ class Contact extends Component {
     return (
       <div>
         <h2>Looking for more information?</h2>
-        <p>Click here to start a live chat with  
-        a <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">customer support agent</a>.
-        </p>
+        <p>Click <a href="https://www.google.ie">here</a> for more information.</p>
       </div>
     );
   }
